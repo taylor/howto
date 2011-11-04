@@ -1,4 +1,4 @@
-How I use the Simple Ruby Version Management: rbenv -- https://github.com/sstephenson/rbenv
+How I use the rbenv -- https://github.com/sstephenson/rbenv
 
 Follow the [rbenv github](https://github.com/sstephenson/rbenv) instructions.
 
