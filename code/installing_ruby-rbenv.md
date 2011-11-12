@@ -33,3 +33,7 @@ Install a ruby version by specifying the version and the rbenv versions path lik
     Downloading http://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.3-p0.tar.gz...
     Installing ruby-1.9.3-p0...
     Installed ruby-1.9.3-p0 to /Users/taylor/.rbenv/versions/1.9.3-p0     
+
+
+Other resouces
+  http://snippets.aktagon.com/snippets/532-How-to-migrate-from-rvm-to-rbenv
