@@ -34,6 +34,7 @@ Install a ruby version by specifying the version and the rbenv versions path lik
     Installing ruby-1.9.3-p0...
     Installed ruby-1.9.3-p0 to /Users/taylor/.rbenv/versions/1.9.3-p0     
 
+Install [rbenv-rehash](https://github.com/scoz/rbenv-rehash) to automatically rehash ruby binaries installed with gem.
 
 Other resouces
   http://snippets.aktagon.com/snippets/532-How-to-migrate-from-rvm-to-rbenv
